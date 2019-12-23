@@ -1,0 +1,87 @@
+.title {
+    border-width: 2px;
+    border-style: groove;
+    border-color: silver;
+    text-align: center;
+}
+.top {
+    border-width: 1px;
+    width: 20%;
+    border-style: groove;
+    border-color: silver;
+    padding: 1%;
+    background: url("bgforwiki.JFIF");
+}
+
+.top2 {
+    border-width: 1px;
+    margin-left: 2%;
+    width: 40%;
+    border-style: groove;
+    border-color: silver;
+    padding: 1%;
+    background: url("bgforwiki.JFIF");
+}
+
+.top3 {
+    border-width: 1px;
+    margin: 2%;
+    border-style: groove;
+    border-color: silver;
+    padding: 1%;
+    background: url("bgforwiki.JFIF");
+}
+
+.top4 {
+    border-width: 1px;
+    margin-left: 2%;
+    border-style: groove;
+    border-color: silver;
+    width: 35%;
+    padding: 1%;
+    background: url("bgforwiki.JFIF");
+}
+.top5 {
+    border-width: 2px;
+    border-style: groove;
+    border-color: silver;
+    background: url("bgforwiki.JFIF");
+    margin: 1.5%;
+}
+.top6{
+    padding: 1%;
+    font-weight: bold ;
+}
+.top7{
+    border-width: 1px;
+    margin-left: 2%;
+    border-style: groove;
+    border-color: silver;
+    padding:1%;
+    width: 700px;
+    background: url("bgforwiki.JFIF");
+}
+.top8 {
+    border-width: 1px;
+    margin-left: 2%;
+    border-style: groove;
+    border-color: silver;
+    padding: 1%;
+    background: url("bgforwiki.JFIF");
+}
+.top9{
+    margin-left: 15px;
+}
+.top10{
+    display: flex;
+    align-items: center;
+}
+.top11{
+    margin-left: auto;
+    margin-right: 15px;
+}
+.top12{
+    margin-left: 50px;
+    width: 800px;
+    height: 112.5px
+}
